@@ -47,7 +47,6 @@ class MainActivity : AppCompatActivity() ,View.OnClickListener{
                             }
 
                     }
-
                 },
                 0,0,true)
 
